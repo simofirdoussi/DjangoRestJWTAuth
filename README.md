@@ -2,7 +2,7 @@
 <p align="center">
     
 
-  <h3 align="center">Dango JWT authentication</h3>
+  <h3 align="center">Django JWT authentication</h3>
 
   <p align="center">
     Tutorial on how to authanticate users django rest farmework
